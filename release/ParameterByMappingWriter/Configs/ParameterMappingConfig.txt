@@ -1,2 +1,2 @@
 ## ссылка на конфигуратор с маппингом параметров (абсолютный путь)
-D:\Мои документы\Desktop\comp213\Исполняемый файл\Configs\BIM ЕГП - Маппинг параметров - Parameter mapping.tsv
+.\Configs\BIM ЕГП - Маппинг параметров - Parameter mapping.tsv
