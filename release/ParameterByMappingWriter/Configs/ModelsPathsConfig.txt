@@ -1,0 +1,2 @@
+## ссылка на IFC модель/модели (абсолютный путь; одна строка - одна модель)
+D:\Мои документы\Desktop\comp213\Исполняемый файл\Models\Input\Snowdon Towers Sample Structural.ifc
