@@ -109,8 +109,7 @@ pyinstaller --onefile --collect-data ifcopenshell main.py
 * Получение и описание pset: [get_pset()](https://docs.ifcopenshell.org/autoapi/ifcopenshell/util/element/index.html#ifcopenshell.util.element.get_pset), [get_psets()](https://docs.ifcopenshell.org/autoapi/ifcopenshell/util/element/index.html#ifcopenshell.util.element.get_psets).
 
 **Видеоинструкция**
-* YouTube: в разработке
-* RuTube: в разработке  
+Видеоинструкция прикреплена в корень репозитория.
 
 **Шаблон таблицы маппинга параметров**  
 В качестве шаблона и примера таблицы маппинга, используйте эту гугл таблицу: https://docs.google.com/spreadsheets/d/1vNGp7asrVigNGRDeBNHZYpYNM1TMjVwzlGtlQ93kn2E
